@@ -6,10 +6,9 @@
     tools:context=".message.MessageFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <ListView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="Message" />
+        android:layout_height="match_parent" />
 
 </FrameLayout>
