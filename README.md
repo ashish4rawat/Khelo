@@ -2,6 +2,8 @@
 
 https://github.com/ashish4rawat/Khelo/blob/master/device-2019-01-12-110106.png
 
+This App lets you play with people who want to play around you
+
 
 
 <p align="center">
